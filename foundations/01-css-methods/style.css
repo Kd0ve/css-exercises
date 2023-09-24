@@ -1,5 +1,10 @@
 /* stylesheet */
 
 .title {
+    color: white;
+    font: "Times New Roman", sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
     background-color: red;
 }
